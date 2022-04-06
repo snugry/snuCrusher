@@ -1,2 +1,2 @@
 # SnuCrusher
-A basic volume control effect plug-in with IGraphics GUI
+A bitcrusher prototype audio plugin using IPlug2, see https://github.com/iPlug2/iPlug2 
